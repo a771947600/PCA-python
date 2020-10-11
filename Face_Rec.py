@@ -7,6 +7,7 @@ import matplotlib.pyplot as plt
 from pylab import mpl
 mpl.rcParams['font.sans-serif'] = ['SimHei']
 
+#edit it
 
 #图片矢量化
 def img2vector(image):
